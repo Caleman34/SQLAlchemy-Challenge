@@ -42,7 +42,7 @@ Python and SQLAlchemy are used for basic climate analysis and data exploration o
 
   ![2](Images/2.png)
 
-  * Plot the results as a histogram with.
+  * Plot the results as a histogram.
 
   ![station-histogram](Images/histogram2.png)
 
